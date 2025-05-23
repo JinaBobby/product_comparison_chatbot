@@ -1,4 +1,4 @@
-import gradio as
+import gradio 
 from groq import Groq
 client = Groq(
     api_key="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",
